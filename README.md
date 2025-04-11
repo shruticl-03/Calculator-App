@@ -33,7 +33,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/yourusername/calculator-app.git
+git clone https://github.com/shruticl-03/Calculator-App.git
 Navigate to the project directory:
 
 bash

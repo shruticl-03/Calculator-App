@@ -1,4 +1,6 @@
 Calculator App
+
+
 This is a simple yet functional Calculator App built using HTML, CSS, and JavaScript. It provides users with the ability to perform basic arithmetic operations like addition, subtraction, multiplication, and division, as well as more advanced operations like square root and percentage calculations.
 
 Features:
